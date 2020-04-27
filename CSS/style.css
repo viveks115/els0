@@ -1,0 +1,19 @@
+.inde {
+  background-image: url(https://images.pexels.com/photos/132700/pexels-photo-132700.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260);
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+h1 {
+  color: rgb(19, 0, 83);
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+}
+p {
+  width: 75%;
+  font: outline;
+  font-family: monospace;
+  background-color: whitesmoke;
+}
+#imgproc {
+  width: 50%;
+}
